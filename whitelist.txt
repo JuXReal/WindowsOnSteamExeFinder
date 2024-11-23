@@ -1,0 +1,7 @@
+game.exe
+wow.exe
+main.exe
+start.exe
+play.exe
+launcher.exe
+

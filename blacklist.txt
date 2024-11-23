@@ -1,0 +1,14 @@
+steam.exe
+VC_redist.x86.exe
+vcredist_x86.exe
+VC_redist.x64.exe
+vcredist_x64.exe
+winhelp.exe
+rundll.exe
+installutil.exe
+csc.exe
+krnl386.exe
+user.exe
+ddhelp.exe
+gdi.exe
+dosx.exe
